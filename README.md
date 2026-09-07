@@ -20,7 +20,7 @@
 ## Where it started
 
 <a href="https://pokeapi.co/">
-  <img align="right" width="80" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iii/ruby-sapphire/383.png" alt="Groudon sprite from Pokémon Ruby and Sapphire">
+  <img align="right" width="80" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/diamond-pearl/393.png" alt="Piplup sprite from Pokémon Diamond and Pearl">
 </a>
 
 Pokémon Ruby and RPG Maker XP pulled me into programming. "Maxie" is the name that stayed with me online.
